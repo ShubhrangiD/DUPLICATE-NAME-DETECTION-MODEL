@@ -1,23 +1,20 @@
 # Duplicate Name Detection
 
-## Introduction
-
 This project focuses on detecting similar names within a dataset using various string similarity measures and parallel processing techniques. The primary goal is to identify potential duplicates in a dataset by leveraging phonetic encoding and string similarity functions.
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Import Libraries](#import-libraries)
-3. [Preprocess the Name](#preprocess-the-name)
-4. [Calculate Similarity Score](#calculate-similarity-score)
-5. [Block Names](#block-names)
-6. [Process Chunk of Names](#process-chunk-of-names)
-7. [Process Blocks with Threads](#process-blocks-with-threads)
-8. [Process All Blocks in Parallel](#process-all-blocks-in-parallel)
-9. [Consolidate Similar Names into Clusters](#consolidate-similar-names-into-clusters)
-10. [Sample Output](#sample-output)
-11. [Contributing](#contributing)
-12. [License](#license)
+1. [Import Libraries](#import-libraries)
+2. [Preprocess the Name](#preprocess-the-name)
+3. [Calculate Similarity Score](#calculate-similarity-score)
+4. [Block Names](#block-names)
+5. [Process Chunk of Names](#process-chunk-of-names)
+6. [Process Blocks with Threads](#process-blocks-with-threads)
+7. [Process All Blocks in Parallel](#process-all-blocks-in-parallel)
+8. [Consolidate Similar Names into Clusters](#consolidate-similar-names-into-clusters)
+9. [Sample Output](#sample-output)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ## Import Libraries
 
